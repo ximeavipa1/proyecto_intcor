@@ -1,0 +1,15 @@
+com\Servlets\intcor\IngresoServlet.class
+com\Servlets\intcor\LoginServlet.class
+com\Servlets\intcor\MensajesServlet$Message.class
+com\Servlets\intcor\MensajesServlet.class
+com\mycompany\intcor\JakartaRestConfiguration.class
+com\Servlets\intcor\VerDatosServlet.class
+com\Servlets\intcor\NotificacionServlet.class
+com\mycompany\intcor\resources\JakartaEE10Resource.class
+com\Servlets\intcor\InicioServlet.class
+com\Servlets\intcor\EnviarMensajeeServlet.class
+com\Servlets\intcor\Notification.class
+com\Servlets\intcor\VerDatosServlet$DataItem.class
+com\Servlets\intcor\ActualizarServlet.class
+com\Servlets\intcor\MessageServlet.class
+com\Servlets\intcor\RegistroServlet.class
